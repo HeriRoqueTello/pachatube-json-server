@@ -1,31 +1,18 @@
 {
-  "name": "restful-api-vercel",
+  "name": "hackaton14-db-json-server",
   "version": "1.0.0",
-  "description": "This is a ready RESTful API created with the JSON Server package",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ifkas/restful-api-vercel.git"
-  },
-  "keywords": [
-    "restful",
-    "rest",
-    "api",
-    "vercel",
-    "json",
-    "server"
-  ],
-  "author": "Ivo Culic",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ifkas/restful-api-vercel/issues"
-  },
-  "homepage": "https://github.com/ifkas/restful-api-vercel#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "json-server": "^0.17.1"
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
   }
 }

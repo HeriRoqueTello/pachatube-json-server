@@ -1,6 +1,0 @@
-{
-    "videos": [
-      { "id": 1, "title": "Titule Test", "url": "https://www.youtube.com/embed/y1ApSB0FpAM", "description": "Descripcion Test" },
-      { "id": 2, "title": "Titule Test 2", "url": "https://www.youtube.com/embed/T0XInumvMjM", "description": "Descripcion Test 2" }
-    ]
-  }
