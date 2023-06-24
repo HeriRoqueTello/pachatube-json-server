@@ -1,4 +1,11 @@
 {
+  "usuarios": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 1
+    }
+  ],
   "videos": [
     {
       "title": "Titule Test",
