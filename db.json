@@ -8,26 +8,21 @@
   ],
   "productos": [
     {
-      "nombre": "Polo",
-      "descripcion": "Soy la descripción de un producto. Soy el lugar ideal para agregar detalles sobre tu producto, así como tamaño, materiales, instrucciones de cuidado y de limpieza. Es también un lugar ideal para destacar por qué este producto es especial y cómo tus clientes se beneficiarían con él.",
-      "precio": 99.99,
-      "tallas": [
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "sizes": [
         "S",
         "M",
         "L"
-      ],
-      "colores": [
-        "black",
-        "white",
-        "red",
-        "green"
-      ],
-      "imagenes": {
-       "principal": "https://static.wixstatic.com/media/22e53e_ad255b4291014e6fa70f70730d360e4c~mv2.jpg/v1/fill/w_625,h_625,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/22e53e_ad255b4291014e6fa70f70730d360e4c~mv2.jpg",
-        "otros": [
-          "https://static.wixstatic.com/media/22e53e_b2055bfbfc8f4360bc46ece4c91771dd~mv2.jpg/v1/fill/w_625,h_625,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/22e53e_b2055bfbfc8f4360bc46ece4c91771dd~mv2.jpg"
-        ]
-      }
+      ]
     }
   ],
   "videos": [
