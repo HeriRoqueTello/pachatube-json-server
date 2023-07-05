@@ -36,6 +36,7 @@
       "price": 20.95,
       "description": "Taza test",
       "category": "electrohogar",
+      "subcategory": "cocina",
       "image": "https://cdn.shopify.com/s/files/1/0646/8698/1339/products/TAZADE12ONZ.webp",
       "count": 120
     }
