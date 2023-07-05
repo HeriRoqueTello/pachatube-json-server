@@ -8,21 +8,31 @@
   ],
   "categorias": [
     {
-      "ropa": [
+      "categoria": "ropa",
+      "subcategorias": [
         "mujeres",
         "hombres",
         "bebes"
-      ],
-      "electrohogar": [
+      ]
+    },
+    {
+      "categoria": "electrohogar",
+      "subcategorias": [
         "cocina",
         "muebles"
-      ],
-      "tecnologia": [
+      ]
+    },
+    {
+      "categoria": "tecnologia",
+      "subcategorias": [
         "celulares",
         "computadoras",
         "accesorios"
-      ],
-      "otros": [
+      ]
+    },
+    {
+      "categoria": "otros",
+      "subcategorias": [
         "libros",
         "mascota",
         "supermercado"
