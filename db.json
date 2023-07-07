@@ -6,6 +6,98 @@
       "id": 1
     }
   ],
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "Desarrollo Front-End",
+      "precio": 200,
+      "descripcion": "Este programa de especialización, de naturaleza teórico – práctico, le permitirá al estudiante aprender a construir interfaces web adaptables a distintos dispositivos, analizando previamente un diseño definido con un software de diseño visual. Además, definirán soluciones desde las bases de HTML, CSS y JS, utilizando como complemento la librería de React JS.",
+      "idstripe": "price_1NQIEzF6ZEDyl9rhQlcKrn9I",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/front_end_hjjhw2.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/frontend2_ckqrr6.png",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Desarrollo de Videojuegos",
+      "precio": 200,
+      "descripcion": "En este programa de especialización para principiantes, el estudiante aprenderá a desarrollar videojuegos 2D con el motor de videojuegos multiplataforma más potente de la industria. Para ello, conocerá desde cero el motor Unity y logrará adquirir las habilidades necesarias para desarrollar un proyecto de alta calidad.",
+      "idstripe": "price_1NR1wNF6ZEDyl9rhMtpl4p2H",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689171/pachatec/videojuegos_2_bkaz6r.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Desarrollo de Aplicativos Móviles",
+      "precio": 200,
+      "descripcion": "Este programa de especialización en aplicativos móviles te brindará los conocimientos y herramientas necesarios para que puedas desarrollar aplicaciones en ambos sistemas operativos, desde los fundamentos de Javascript, React y React Native, hasta el uso de librerías externas, navegación entre pantallas, uso de API, debug y herramientas de desarrollo para el manejo de problemas y testeo del código.",
+      "idstripe": "price_1NR1vzF6ZEDyl9rhR2Weolaa",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/apps_afswn1.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Data Analytics",
+      "precio": 200,
+      "descripcion": "El curso Python for Data Analyst brinda la información necesaria para que el estudiante emplee uno de los lenguajes de programación más versátiles, así como el manejo de grandes cantidades de datos de forma automatizada; agilizando el trabajo, integrando sistemas de información y procesando datos de gran volumen.",
+      "idstripe": "price_1NR1weF6ZEDyl9rhsUa7AL5u",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/data_xgvxt8.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Desarrollo Back-End",
+      "precio": 200,
+      "descripcion": "El programa de especialización en Desarrollo Back-End, es de naturaleza teórico - práctico. Le permitirá al estudiante desarrollar aplicaciones modernas, programando en JavaScript del lado del servidor. Además, aprenderá a trabajar y dominar bases de datos utilizando MongoDB para mejorar la gestión de manera ágil, eficiente, permitiendo que el software sea escalable.",
+      "idstripe": "price_1NR2cvF6ZEDyl9rhZELnBgWa",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/back_end_rgpg1m.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Diseño de Experiencia De Usuario",
+      "precio": 200,
+      "descripcion": "Clases Virtuales con el Diplomado en Diseño de Experiencia de Usuario crea cualquier producto digital para satisfacer las necesidades del usuario final.",
+      "idstripe": "price_1NR2eTF6ZEDyl9rhiJJRw1us",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/ux_ajvoaj.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 7,
+      "nombre": "Marketing Digital",
+      "precio": 150,
+      "descripcion": "Este curso de Marketing Digital consta de 8 sesiones prácticas, donde el participante conocerá la importancia y relevancia de una estrategia de marketing digital en los principales canales digitales (redes sociales, emailing y sitios web), aprendiendo cómo crear, implementar y medir campañas publicitarias, así como diseñar una tienda virtual usando las últimas herramientas y técnicas del mercado para emprendedores.",
+      "idstripe": "price_1NR2euF6ZEDyl9rhyKoF39F2",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/marketing_digital2_yd3pk4.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 8,
+      "nombre": "Desarrollo Front-End Avanzado",
+      "precio": 250,
+      "descripcion": "Este programa de especialización, de naturaleza teórico – práctico, le permitirá al estudiante aprender a construir interfaces web adaptables a distintos dispositivos, analizando previamente un diseño definido con un software de diseño visual. Además, definirán soluciones desde las bases de HTML, CSS y JS, utilizando como complemento la librería de React JS.",
+      "idstripe": "price_1NR2fOF6ZEDyl9rhUMF3jm7R",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/frontend2_ckqrr6.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": true
+    },
+    {
+      "id": 9,
+      "nombre": "Curso de Ventas",
+      "precio": 150,
+      "descripcion": "Este curso aprenderás a crear un plan de marketing digital relacionado a la gestión de negocios digitales, utilizando herramientas de gestión y estrategias de contenido y moderación de las principales redes sociales (Facebook, Instagram, Tiktok, Linkedin). Además, estarás preparado para la creación de anuncios (ADS) y analítica Web.",
+      "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
+      "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/shopping-course_q2xhbe.png",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": false
+    }
+  ],
   "categorias": [
     {
       "categoria": "ropa",
