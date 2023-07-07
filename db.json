@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "email": "admin",
+      "email": "admin@admin.com",
       "username": "admin",
       "password": "admin",
       "id": 1
