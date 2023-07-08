@@ -16,7 +16,8 @@
       "idstripe": "price_1NQIEzF6ZEDyl9rhQlcKrn9I",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/front_end_hjjhw2.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "idstripe": "price_1NR1wNF6ZEDyl9rhMtpl4p2H",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689171/pachatec/videojuegos_2_bkaz6r.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 3,
@@ -36,7 +38,8 @@
       "idstripe": "price_1NR1vzF6ZEDyl9rhR2Weolaa",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/apps_afswn1.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "idstripe": "price_1NR1weF6ZEDyl9rhsUa7AL5u",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/data_xgvxt8.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 5,
@@ -56,7 +60,8 @@
       "idstripe": "price_1NR2cvF6ZEDyl9rhZELnBgWa",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/back_end_rgpg1m.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 6,
@@ -66,7 +71,8 @@
       "idstripe": "price_1NR2eTF6ZEDyl9rhiJJRw1us",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/ux_ajvoaj.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 7,
@@ -76,7 +82,8 @@
       "idstripe": "price_1NR2euF6ZEDyl9rhyKoF39F2",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/marketing_digital2_yd3pk4.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "gestion"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "idstripe": "price_1NR2fOF6ZEDyl9rhUMF3jm7R",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689169/pachatec/frontend2_ckqrr6.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": true
+      "activo": true,
+      "categoria": "codigo"
     },
     {
       "id": 9,
@@ -96,7 +104,63 @@
       "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/shopping-course_q2xhbe.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
-      "activo": false
+      "activo": false,
+      "categoria": "gestion"
+    },
+    {
+      "id": 10,
+      "nombre": "Curso de Adobe Photoshop",
+      "precio": 150,
+      "descripcion": "Este curso aprenderás a crear un plan de marketing digital relacionado a la gestión de negocios digitales, utilizando herramientas de gestión y estrategias de contenido y moderación de las principales redes sociales (Facebook, Instagram, Tiktok, Linkedin). Además, estarás preparado para la creación de anuncios (ADS) y analítica Web.",
+      "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
+      "imagen": "https://img.freepik.com/vector-gratis/proximamente-fondo-diseno-spot-light_1017-25515.jpg",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": false,
+      "categoria": "codigo"
+    },
+    {
+      "id": 11,
+      "nombre": "Curso de Adobe Photoshop",
+      "precio": 150,
+      "descripcion": "Este curso aprenderás a crear un plan de marketing digital relacionado a la gestión de negocios digitales, utilizando herramientas de gestión y estrategias de contenido y moderación de las principales redes sociales (Facebook, Instagram, Tiktok, Linkedin). Además, estarás preparado para la creación de anuncios (ADS) y analítica Web.",
+      "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
+      "imagen": "https://img.freepik.com/vector-gratis/proximamente-fondo-diseno-spot-light_1017-25515.jpg",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": false,
+      "categoria": "diseno"
+    },
+    {
+      "id": 13,
+      "nombre": "Curso de Adobe Illustrator",
+      "precio": 150,
+      "descripcion": "Este curso aprenderás a crear un plan de marketing digital relacionado a la gestión de negocios digitales, utilizando herramientas de gestión y estrategias de contenido y moderación de las principales redes sociales (Facebook, Instagram, Tiktok, Linkedin). Además, estarás preparado para la creación de anuncios (ADS) y analítica Web.",
+      "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
+      "imagen": "https://img.freepik.com/vector-gratis/proximamente-fondo-diseno-spot-light_1017-25515.jpg",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": false,
+      "categoria": "diseno"
+    },
+    {
+      "id": 14,
+      "nombre": "Diseño Grafico Digital",
+      "precio": 150,
+      "descripcion": "Este curso aprenderás a crear un plan de marketing digital relacionado a la gestión de negocios digitales, utilizando herramientas de gestión y estrategias de contenido y moderación de las principales redes sociales (Facebook, Instagram, Tiktok, Linkedin). Además, estarás preparado para la creación de anuncios (ADS) y analítica Web.",
+      "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
+      "imagen": "https://img.freepik.com/vector-gratis/proximamente-fondo-diseno-spot-light_1017-25515.jpg",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": false,
+      "categoria": "diseno"
+    },
+    {
+      "id": 15,
+      "nombre": "Community Manager",
+      "precio": 150,
+      "descripcion": "Este curso aprenderás a crear un plan de marketing digital relacionado a la gestión de negocios digitales, utilizando herramientas de gestión y estrategias de contenido y moderación de las principales redes sociales (Facebook, Instagram, Tiktok, Linkedin). Además, estarás preparado para la creación de anuncios (ADS) y analítica Web.",
+      "idstripe": "price_1NR2jIF6ZEDyl9rhuxhozWzV",
+      "imagen": "https://img.freepik.com/vector-gratis/proximamente-fondo-diseno-spot-light_1017-25515.jpg",
+      "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
+      "activo": false,
+      "categoria": "gestion"
     }
   ],
   "categorias": [
