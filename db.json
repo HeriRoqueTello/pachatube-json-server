@@ -3,7 +3,7 @@
     {
       "email": "admin@admin.com",
       "username": "admin",
-      "password": "admin",
+      "password": "admin123",
       "id": 1
     }
   ],
@@ -13,7 +13,7 @@
       "nombre": "Desarrollo Front-End",
       "precio": 200,
       "descripcion": "Este programa de especialización, de naturaleza teórico – práctico, le permitirá al estudiante aprender a construir interfaces web adaptables a distintos dispositivos, analizando previamente un diseño definido con un software de diseño visual. Además, definirán soluciones desde las bases de HTML, CSS y JS, utilizando como complemento la librería de React JS.",
-      "idstripe": "price_1NQIEzF6ZEDyl9rhQlcKrn9I",
+      "idstripe": "price_1NRbT6F6ZEDyl9rhoY4EWxos",
       "imagen": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689170/pachatec/front_end_hjjhw2.png",
       "certificado": "https://res.cloudinary.com/dlsqr4a8l/image/upload/v1688689320/pachatec/certificado_p8iopf.png",
       "activo": true,
