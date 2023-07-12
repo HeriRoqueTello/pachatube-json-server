@@ -165,34 +165,74 @@
   ],
   "categorias": [
     {
-      "categoria": "ropa",
+      "categoria": "mujer",
       "subcategorias": [
-        "mujeres",
-        "hombres",
-        "bebes"
+        "vestidos",
+        "bluzas",
+        "polos",
+        "pantalones",
+        "faldas",
+        "abrigos",
+        "lenceria",
+        "zapatos",
+        "zapatillas"
       ]
     },
     {
-      "categoria": "electrohogar",
+      "categoria": "varones",
       "subcategorias": [
+        "camisas",
+        "pantalones",
+        "abrigos",
+        "zapatillas",
+        "zapatos"
+      ]
+    },
+    {
+      "categoria": "ninos",
+      "subcategorias": [
+        "bluzas",
+        "camisas",
+        "pantalones",
+        "abrigos",
+        "zapatos",
+        "zapatillas",
+        "juguetes"
+      ]
+    },
+    {
+      "categoria": "mascota",
+      "subcategorias": [
+        "accesorios",
+        "ropa",
+        "zapatos",
+        "juguetes"
+      ]
+    },
+    {
+      "categoria": "joyas-y-accesorios",
+      "subcategorias": [
+        "fantasia",
+        "oro",
+        "plata",
+        "acero"
+      ]
+    },
+    {
+      "categoria": "adornos",
+      "subcategorias": [
+        "terraza",
+        "jardineria",
+        "sala",
         "cocina",
-        "muebles"
+        "dormitorio"
       ]
     },
     {
-      "categoria": "tecnologia",
+      "categoria": "salud-y-belleza",
       "subcategorias": [
-        "celulares",
-        "computadoras",
-        "accesorios"
-      ]
-    },
-    {
-      "categoria": "otros",
-      "subcategorias": [
-        "libros",
-        "mascota",
-        "supermercado"
+        "cosmeticos",
+        "skincare"
       ]
     }
   ],
